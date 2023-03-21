@@ -721,13 +721,13 @@ a
         width: 99.99999%
     }
 
-    .section1{
+    /* .section1{
         display: none;
     }
 
     .section4{
         display: none;
-    }
+    } */
 
 }
 
@@ -780,13 +780,13 @@ a
         width: 99.99999%
     }
 
-    .section1{
+    /* .section1{
         display: none;
     }
 
     .section4{
         display: none;
-    }
+    } */
 }
 
 .w3-rest {
@@ -921,13 +921,13 @@ a
         display: block!important
     }
 
-    .section1{
+    /* .section1{
         display: none;
     }
 
     .section4{
         display: none;
-    }
+    } */
 }
 
 @media (max-width: 992px) and (min-width:601px) {
